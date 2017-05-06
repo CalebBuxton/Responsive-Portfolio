@@ -1,3 +1,21 @@
+wrapper wid 1024
+margin 40px auto
+
+maintcont
+sidebar 
+width: 500px
+padding 30 px
+
+float left
+float right
+
+
+@media screen and (max-width: 768px) {
+	.wrapper {
+		width: 600px
+	}
+}
+
 html {
 	min-height: 100%;
 	box-sizing: border-box;
