@@ -294,8 +294,13 @@ input[type="submit"] {
 
 	.sectionTitle,
 	.mainContent {
-		padding: 0 20px;
+		margin-left: 20px;
+		margin-right: 20px;
 	}
+
+/*	.sectionTitle h1 {
+		margin: 0 20px;
+	}*/
 
 	.sidebar {
 		margin-top: 40px;
